@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HigherOrderFunctionwithTimer", "HigherOrderFunctionwithTimer\HigherOrderFunctionwithTimer.csproj", "{D1AF2287-4FB2-4712-8025-2DD1B0977D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HigherOrderFunctionWithTimerTests", "HigherOrderFunctionWithTimerTests\HigherOrderFunctionWithTimerTests.csproj", "{94038A4A-8CE2-4D79-B3B2-31ED0798298B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1AF2287-4FB2-4712-8025-2DD1B0977D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AF2287-4FB2-4712-8025-2DD1B0977D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AF2287-4FB2-4712-8025-2DD1B0977D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AF2287-4FB2-4712-8025-2DD1B0977D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94038A4A-8CE2-4D79-B3B2-31ED0798298B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94038A4A-8CE2-4D79-B3B2-31ED0798298B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94038A4A-8CE2-4D79-B3B2-31ED0798298B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94038A4A-8CE2-4D79-B3B2-31ED0798298B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
