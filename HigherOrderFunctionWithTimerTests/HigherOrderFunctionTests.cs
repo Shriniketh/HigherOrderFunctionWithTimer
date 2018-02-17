@@ -12,5 +12,14 @@ namespace HigherOrderFunctionWithTimerTests
         {
             Program.CheckIfPrimeNumber();
         }
+
+        [TestMethod]
+
+        public void DataFromTheInternet_Is_Not_Empty()
+        { 
+            var result = Program.GetStringDataFromAWebsite();
+
+            Assert.IsNull(result);
+        }
     }
 }
